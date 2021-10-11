@@ -1,0 +1,32 @@
+input#search{
+  width: 65%;
+  background: none;
+  height: 30%;
+  font-size: x-large;
+}
+input#search::placeholder{
+  font-size: x-large;
+}
+.search{
+  height: 30%;
+}
+form{
+  height:30%;
+}
+button{
+  background: none;
+  width: 15%;
+  height: 30%;
+  font-size: x-large;
+}
+a{
+  text-decoration:none;
+  color: aqua;
+  transition: 1s;
+}
+a:hover{
+  text-decoration: underline;
+}
+body{
+  background: url('https://previews.123rf.com/images/krulua/krulua1302/krulua130200042/17879942-good-weather-background-blue-sky-with-clouds.jpg');
+}
